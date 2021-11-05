@@ -8,7 +8,7 @@
  * @copyright           2021 Joeri Abbo
  * @wordpress-plugin
  * Plugin Name:        ACF Are You Sure
- * Plugin URI:            https://github.com/Joeri-Abbo/acf-are-you-sure
+ * Plugin URI:            https://github.com/Joeri-Abbo/ACF-Are-You-Sure
  * Description:        An plugin that shows available syncs on acf groups
  * Version:            1.0.0
  * Author URI:            https://www.linkedin.com/in/joeri-abbo-43a457144/
