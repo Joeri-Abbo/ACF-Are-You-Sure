@@ -1,0 +1,20 @@
+{
+    "name": "joeri-abbo/acf-are-you-sure",
+    "type": "wordpress-plugin",
+    "description": " An plugin that shows available syncs on acf groups",
+    "keywords": [
+        "wp",
+        "wp-plugin",
+        "plugin",
+        "acf",
+        "wordpress"
+    ],
+    "authors": [
+        {
+            "name": "Joeri Abbo",
+            "email": "joeriabbo@hotmail.com",
+            "homepage": "https://nl.linkedin.com/in/joeri-abbo-43a457144",
+            "role": "Developer"
+        }
+    ]
+}
